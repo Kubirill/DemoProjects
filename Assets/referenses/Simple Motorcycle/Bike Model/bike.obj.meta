@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 89036b732a1b7bc40b534441e2f3388d
+timeCreated: 1506652742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: engine
+    100004: engine_guts
+    100006: exhaust
+    100008: footsupport
+    100010: frame_bar
+    100012: frame_low
+    100014: frame_mid
+    100016: frame_rear
+    100018: front_arm
+    100020: front_axle
+    100022: front_bolt
+    100024: front_tire
+    100026: front_wheel
+    100028: handle
+    100030: rear_arm
+    100032: rear_axle
+    100034: rear_tire
+    100036: rear_wheel
+    100038: seat
+    100040: tail
+    100042: tank
+    400000: //RootNode
+    400002: engine
+    400004: engine_guts
+    400006: exhaust
+    400008: footsupport
+    400010: frame_bar
+    400012: frame_low
+    400014: frame_mid
+    400016: frame_rear
+    400018: front_arm
+    400020: front_axle
+    400022: front_bolt
+    400024: front_tire
+    400026: front_wheel
+    400028: handle
+    400030: rear_arm
+    400032: rear_axle
+    400034: rear_tire
+    400036: rear_wheel
+    400038: seat
+    400040: tail
+    400042: tank
+    2300000: engine
+    2300002: engine_guts
+    2300004: exhaust
+    2300006: footsupport
+    2300008: frame_bar
+    2300010: frame_low
+    2300012: frame_mid
+    2300014: frame_rear
+    2300016: front_arm
+    2300018: front_axle
+    2300020: front_bolt
+    2300022: front_tire
+    2300024: front_wheel
+    2300026: handle
+    2300028: rear_arm
+    2300030: rear_axle
+    2300032: rear_tire
+    2300034: rear_wheel
+    2300036: seat
+    2300038: tail
+    2300040: tank
+    3300000: engine
+    3300002: engine_guts
+    3300004: exhaust
+    3300006: footsupport
+    3300008: frame_bar
+    3300010: frame_low
+    3300012: frame_mid
+    3300014: frame_rear
+    3300016: front_arm
+    3300018: front_axle
+    3300020: front_bolt
+    3300022: front_tire
+    3300024: front_wheel
+    3300026: handle
+    3300028: rear_arm
+    3300030: rear_axle
+    3300032: rear_tire
+    3300034: rear_wheel
+    3300036: seat
+    3300038: tail
+    3300040: tank
+    4300000: engine
+    4300002: engine_guts
+    4300004: exhaust
+    4300006: footsupport
+    4300008: frame_bar
+    4300010: frame_low
+    4300012: frame_mid
+    4300014: frame_rear
+    4300016: front_arm
+    4300018: front_axle
+    4300020: front_bolt
+    4300022: front_tire
+    4300024: front_wheel
+    4300026: handle
+    4300028: rear_arm
+    4300030: rear_axle
+    4300032: rear_tire
+    4300034: rear_wheel
+    4300036: seat
+    4300038: tail
+    4300040: tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

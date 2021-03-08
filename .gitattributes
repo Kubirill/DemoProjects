@@ -1,0 +1,17 @@
+Assets/Material* filter=lfs diff=lfs merge=lfs -text
+Assets/prefub* filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes* filter=lfs diff=lfs merge=lfs -text
+Assets/Warehouse* filter=lfs diff=lfs merge=lfs -text
+Assets/Standard[[:space:]]Assets* filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+Assets/HTC.UnityPlugin/* filter=lfs diff=lfs merge=lfs -text
+Assets/SteamVR/* filter=lfs diff=lfs merge=lfs -text
+Assets/SteamVR_Input/* filter=lfs diff=lfs merge=lfs -text
+Assets/SteamVR_Resources/* filter=lfs diff=lfs merge=lfs -text
+Assets/StreamingAssets/* filter=lfs diff=lfs merge=lfs -text
+Assets/Vive3DSP/* filter=lfs diff=lfs merge=lfs -text
+Assets/WaveVR/* filter=lfs diff=lfs merge=lfs -text
+Assets/XR/* filter=lfs diff=lfs merge=lfs -text
+Build* filter=lfs diff=lfs merge=lfs -text
